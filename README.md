@@ -8,9 +8,4 @@ I am Pablo Galindo Salgado and I'm a **Python core developer**, **Steering Counc
 
 <br>
 
-I contribute to a lot of areas of the Python ecosystem but I center my efforts on the CPython project and related ecosystem and its community.
-
-
-![Pablo's GitHub stats](https://github-readme-stats.vercel.app/api?username=pablogsal&show_icons=true&theme=radical) 
-
 If you find my open source contributions valuable, please consider [sponsoring me](https://github.com/sponsors/pablogsal).
